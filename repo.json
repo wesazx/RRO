@@ -8,14 +8,6 @@
       "lang": "en",
       "nsfw": false,
       "entry": "atsu-moe.plugin.js"
-    },
-    {
-      "id": "mangapill",
-      "name": "Mangapill",
-      "version": "1.0.0",
-      "lang": "en",
-      "nsfw": false,
-      "entry": "mangapill.plugin.js"
     }
   ]
 }
