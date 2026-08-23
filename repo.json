@@ -1,0 +1,13 @@
+{
+  "name": "Harbor Manga Repo",
+  "plugins": [
+    {
+      "id": "atsu-moe",
+      "name": "Atsu",
+      "version": "1.0.0",
+      "lang": "en",
+      "nsfw": false,
+      "entry": "atsu-moe.plugin.js"
+    }
+  ]
+}
