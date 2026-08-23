@@ -1,4 +1,4 @@
-# RRO - Harbor manga source repo
+# PMR - Harbor manga source repo
 
 A Harbor manga source repo hosting a plugin for [atsu.moe](https://atsu.moe/).
 
