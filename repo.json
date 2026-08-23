@@ -8,6 +8,14 @@
       "lang": "en",
       "nsfw": false,
       "entry": "atsu-moe.plugin.js"
+    },
+    {
+      "id": "globalcomix",
+      "name": "GlobalComix",
+      "version": "1.0.0",
+      "lang": "en",
+      "nsfw": false,
+      "entry": "globalcomix.plugin.js"
     }
   ]
 }
