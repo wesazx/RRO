@@ -17,3 +17,4 @@ Then install the **Atsu** plugin.
 - Series detail (title, author, synopsis, status, year, cover)
 - Chapter list + page images
 - Genre and tag filters
+hopefully it works in other manga/Manoawh readers
