@@ -10,6 +10,14 @@
       "entry": "atsu-moe.plugin.js"
     },
     {
+      "id": "mangadex",
+      "name": "MangaDex",
+      "version": "1.0.0",
+      "lang": "en",
+      "nsfw": false,
+      "entry": "mangadex.plugin.js"
+    },
+    {
       "id": "globalcomix",
       "name": "GlobalComix",
       "version": "1.0.1",
